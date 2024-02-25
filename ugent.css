@@ -33,7 +33,8 @@ body {
 }
 
 .c-main__recipe{
-    display: flex;
+    display: flex; 
+    flex-wrap: nowrap;
     flex-direction: column;
 
 }
